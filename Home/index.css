@@ -1,0 +1,30 @@
+body { 
+	background-color:#000000 ;
+	color:#F0F0F0;
+}
+
+h1 {
+	font-size: 4em;
+	text-align: center;
+}
+
+h2 {
+	font-size: 3em;
+	text-align: center;
+}
+
+.main {
+	outline-style: ridge;
+	outline-color: #FFFFFF;
+	outline-width: 10px;
+	text-align: center;
+}
+
+ul li {
+	display: inline;
+}
+
+footer {
+	font-size:10px;
+	display: border-left;
+}
